@@ -5,3 +5,4 @@ This plugin will allow you to easily brand your default WordPress login, passwor
 For instance, please see the screenshots below:
 
 ![picture](wp-login-page.png)
+![picture](wp-password-recovery-page.png)
